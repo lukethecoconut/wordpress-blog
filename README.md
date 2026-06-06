@@ -2,6 +2,15 @@
 
 This is a built-from-scratch project aiming to hone my skills with LAMP/LEMP stack, DevOps, Google Analytics, while at the same time building a blog that acts as my personal namespace.
 
+## Tech Stack / Built With
+- Ubuntu 26.04 LTS
+
+## Planned Stack
+- Nginx
+- MySQL 8.0
+- PHP 8.3
+- WordPress
+
 ## Project Status
 This project is under active development.
 
