@@ -10,4 +10,4 @@ This project is under active development.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Author
-Luke Angelo Santiago - [LinkedIn](https://www.linkedin.com/in/lukeangelosantiago) - [email](lukeangelo@proton.me)
+Luke Angelo Santiago - [LinkedIn](https://www.linkedin.com/in/lukeangelosantiago) - [email](mailto:lukeangelo@proton.me)
