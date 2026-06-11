@@ -4,12 +4,12 @@ This is a built-from-scratch project aiming to hone my skills with LAMP/LEMP sta
 
 ## Tech Stack / Built With
 - Ubuntu 26.04 LTS
-
-## Planned Stack
 - Nginx
-- MySQL 8.0
+- MySQL
 - PHP 8.3
 - WordPress
+
+## Planned Stack
 
 ## Project Status
 This project is under active development.
